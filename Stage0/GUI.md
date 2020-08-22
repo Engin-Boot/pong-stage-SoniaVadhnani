@@ -3,7 +3,8 @@
 ## Feature
 
 This module is responsible for the appearance of the game,
-from background color or image to shape and size of the ball and rackets. (So far the game is for single user.)
+from background color or image to shape and size of the ball and
+rackets.(So far the game is for single user.)
 
 ## Acceptance Criteria
 
