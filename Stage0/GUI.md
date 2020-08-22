@@ -38,7 +38,7 @@ button and exit button and both works correctly
 
 When user hits exit to quit the game.
 
-Then a popup appears asking "Do you want
+Then a pop up appears asking "Do you want
 to exit the game?" with two options "yes" or "no".
 
 ### Scenario: Exit when user wants to exit
