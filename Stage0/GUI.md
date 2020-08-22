@@ -3,8 +3,7 @@
 ## Feature
 
 This module is responsible for the appearance of the game,
-from background color or image to shape and size of the
-ball and rackets. (So far the game is for single user.)
+from background color or image to shape and size of the ball and rackets. (So far the game is for single user.)
 
 ## Acceptance Criteria
 
@@ -13,7 +12,7 @@ ball and rackets. (So far the game is for single user.)
 Given the game works efficiently and there is no
 error in the game that may interrupt any functionality.
 
-When user initialises the game by clicking on the game icon.
+When user initializes the game by clicking on the game icon.
 
 Then there will be a field that asking for user's name
 with already filled name as "HUMAN", a start button
@@ -46,7 +45,7 @@ to exit the game?" with two options "yes" or "no".
 Given the initial interface that has exit button
 which works correctly
 
-When user doesnot want to play anymore and
+When user doesn't want to play anymore and
 hits exit and yes to quit the game
 
 Then the game exits.
