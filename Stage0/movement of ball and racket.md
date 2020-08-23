@@ -39,7 +39,7 @@ When the game starts as user hits START
 and the ball is in center of the dashed white line.
 
 Then the ball starts moving randomly in
-any direction.
+any direction with a particular speed.
 
 ### Scenario: Ball changes direction when hits anything
 
