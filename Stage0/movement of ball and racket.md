@@ -18,7 +18,7 @@ vice versa.
 When user taps on any of the button
 
 Then user's racket moves in the mentioned
-direction unless its already comletely at that side.
+direction unless its already completely at that side.
 
 ### Scenario: Movement of computer's racket is random
 
