@@ -2,7 +2,9 @@
 
 ## Feature
 
-What part of the game does this module deliver? This module is responsible for the speed and direction in which the ball moves and also control the left and right movement of rackets.
+This module is responsible for the speed and direction
+in which the ball moves and also control the left and right
+movement of rackets.
 
 ## Acceptance Criteria
 
