@@ -1,4 +1,4 @@
-# Contiuous Loop
+# Continuous Loop
 
 ## Feature
 
@@ -15,7 +15,7 @@ Given The game is working efficiently
 When the user hits start
 And the ball is in center
 
-Then ramdomly move ball in any direction
+Then randomly move ball in any direction
 And update ball-movement module about the
 position of ball every one-tenth second.
 

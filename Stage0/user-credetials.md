@@ -14,7 +14,7 @@ Given the game works efficiently and there is no error
 in the game that may interrupt any functionality.
 
 When the user taps on the game icon
-And the game initialises
+And the game initializes
 
 Then ask for user to sign in with
 google account
