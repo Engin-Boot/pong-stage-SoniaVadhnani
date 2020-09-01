@@ -15,14 +15,12 @@ error in the game that may interrupt any functionality.
 
 When user initializes the game by clicking on the game icon.
 
-Then there will be a field that asking for user's name
-with already filled name as "HUMAN", a start button
-and a quit button.
+Then ask for "user-credential".
 
 ### Scenario: Interface after the user hits START
 
 Given the initial interface that has start
-button and exit button and both works correctly
+button which works correctly
 
 When user clicks on START
 
@@ -36,8 +34,8 @@ under the user's racket.
 
 ### Scenario: Ask if user want to exit the game when user hits EXIT
 
-Given the initial interface that has start
-button and exit button and both works correctly
+Given the initial interface that has exit button
+which works correctly
 
 When user hits exit to quit the game.
 
