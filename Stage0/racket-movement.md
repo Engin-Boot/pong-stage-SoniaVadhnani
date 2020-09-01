@@ -29,4 +29,4 @@ When the game starts as user hits START
 
 Then the computer racket starts moving randomly
 any direction
-And its position is updated by "continuous_loop" module.
+And it's position is updated by "continuous_loop" module.
