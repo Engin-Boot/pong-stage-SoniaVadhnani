@@ -3,7 +3,8 @@
 ## Feature
 
 This loop runs continuously during the game
-and update concerned modules about the ball and racket position in every one-tenth second.
+and update concerned modules about the ball and
+racket position in every one-tenth second.
 
 ## Acceptance Criteria
 

@@ -7,7 +7,6 @@ in which the ball moves.
 
 ## Acceptance Criteria
 
-
 ### Scenario: Initially the Movement of ball is random
 
 Given the game works efficiently and there is no error in

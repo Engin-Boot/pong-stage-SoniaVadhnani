@@ -14,8 +14,8 @@ which works efficiently and it takes 6 left taps
 to reach completely to the left from complete right and
 vice versa or the user can slide the racket.
 
-When user taps on any of the button or
-
+When user taps on any of the button or slides
+the racket
 
 Then user's racket moves in the mentioned
 direction unless its already completely at that side.
